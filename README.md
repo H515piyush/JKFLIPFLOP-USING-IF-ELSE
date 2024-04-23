@@ -94,8 +94,9 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![323293154-d4b06ea5-ea16-4979-8e0c-56e0bf0706b1](https://github.com/H515piyush/JKFLIPFLOP-USING-IF-ELSE/assets/147472999/d2b851cd-a0f5-4946-a052-345f8f1b27d9)
 
+
+![digi ex7 waveoutput](https://github.com/H515piyush/JKFLIPFLOP-USING-IF-ELSE/assets/147472999/1496ce56-be38-42f8-8f09-2910fb2a92fc)
 
 **RESULTS**
 Thus,the code executed successfully.
